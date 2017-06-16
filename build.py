@@ -1,2 +1,3 @@
 def solution(dic):
-    '''Enter Code Here'''
+    value=dic.values()
+    return sum(value)
