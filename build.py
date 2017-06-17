@@ -1,3 +1,3 @@
 def solution(dic):
     '''Enter Code Here'''
-    return sum(dic.itervalues())
+    return sum(dic.values())
