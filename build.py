@@ -1,2 +1,5 @@
 def solution(dic):
-    '''Enter Code Here'''
+    total = 0
+    for values in dic.values():
+        total += values
+    return total    
