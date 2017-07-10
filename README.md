@@ -1,3 +1,4 @@
+
 # Define a function to sum all the values in a dictionary.
 
 Define a function that takes a dictionary as a parameter and returns the sum of all the values in it.
